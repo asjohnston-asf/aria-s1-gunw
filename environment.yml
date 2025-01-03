@@ -1,0 +1,8 @@
+name: aria-s1-gunw
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - requests
+  - pytest
